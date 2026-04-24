@@ -11,6 +11,3 @@
 [![Contributors](https://img.shields.io/github/contributors/Python-Crash-Course/Python101)](https://github.com/Python-Crash-Course/Python101/graphs/contributors)
 
 This GitHub repository contains material for a beginner Python course held in COWI Lyngby during 2019/2020. Check out its [GitHub page](https://python-crash-course.github.io/Python101/).
-
-If you don't have Python installed please check out the [Python environment installation guideline](https://python-crash-course.github.io/Python101/Installation/installation_guide.html).
-
